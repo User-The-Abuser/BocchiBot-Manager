@@ -2,7 +2,7 @@
 
 # Download:
 
-[![Download-Latest](https://img.shields.io/badge/Download-Latest-blue)](https://gitlab.com/-/project/62264697/uploads/aa0839f419038e0731d9fe771ee43e78/BocchiBot-Manager-1.0.0-2.0.2.zip)
+[![Download-Latest](https://img.shields.io/badge/Download-Latest-blue)](https://gitlab.com/-/project/62264697/uploads/73b28f51468a246ccf54e669efa40ee3/BocchiBot-Manager-1.0.0-2.0.3.zip)
 
 [![Official-Website](https://img.shields.io/badge/Official-Website-blue?logo=google-chrome&logoColor=white)](https://sample-text.webador.de)
 [![GitLab-Repository](https://img.shields.io/badge/GitLab-Repository-orange?logo=gitlab)](https://gitlab.com/user-the-abuser-projects/bocchibot-manager)
